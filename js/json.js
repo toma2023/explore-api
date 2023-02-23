@@ -28,3 +28,4 @@ console.log(user);
  console.log(shopJSON);
  const object =typeof shopObj;
  console.log(object);
+ 
